@@ -58,7 +58,7 @@ export const GAMES: GameBundle[] = [
       `,
       background: '#ff4f4f',
     },
-    props: { logo: '/logo.png' },
+    props: { logo: '/logo.jpeg' },
     app: React.lazy(() => import('./HiLo')),
   },
   {
