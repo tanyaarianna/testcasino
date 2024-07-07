@@ -106,12 +106,15 @@ export function WelcomeBanner() {
         <p>
           A fair, simple and decentralized casino on Solana.
         </p>
+      </div>
+      
+      <div>
       <Buttons>
         <button onClick={() => window.open('t.me/rollonsol', '_blank')}>
           💬 TELE
         </button>
       </Buttons>
-     </div>
+      </div>
     </Welcome>
   )
 }
