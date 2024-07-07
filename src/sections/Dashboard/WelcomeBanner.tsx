@@ -110,7 +110,7 @@ export function WelcomeBanner() {
       
       <div>
       <Buttons>
-        <button onClick={() => window.open('t.me/rollonsol', '_blank')}>
+        <button onClick={() => window.open('https://t.me/rollonsol', '_blank')}>
           💬 TELE
         </button>
       </Buttons>
